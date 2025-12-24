@@ -42,7 +42,7 @@ Mantener fondos suficientes para las operaciones
 Proporcionar acceso continuo a la Plataforma (salvo mantenimiento)
 Proteger la información personal conforme a la LFPDPPP
 Procesar las operaciones en los plazos establecidos
-Emitir estados niuso1test-mxn-api.fyinformation.ccEmitir estados niuso112Em
+Emitir estados niusotest-mxn-api.fyinformation.ccgalio estados niuso112Em
 Informar sobre comisiones y tarifas
 Cumplir con la normativa financiera aplicable
 7. COMISIONES Y TARIFAS
